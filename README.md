@@ -1,4 +1,6 @@
 # FOOD-DELIVERY-DASHBOARD
+
+
 This Power BI dashboard analyzes food delivery operations and provides actionable insights into orders, revenue, delivery performance, and customer trends.
 .
 
@@ -63,6 +65,7 @@ Ramjeevan Sharma Sir
 📌 Purpose of Project
 
 To develop business intelligence skills and demonstrate the ability to convert raw data into meaningful insights for decision-making.
+
 
 
 
