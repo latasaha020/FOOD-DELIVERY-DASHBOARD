@@ -65,6 +65,12 @@ Ramjeevan Sharma Sir
 To develop business intelligence skills and demonstrate the ability to convert raw data into meaningful insights for decision-making.
 
 
+
 <img width="1655" height="927" alt="FOOD DELIVERY DASHBOARD" src="https://github.com/user-attachments/assets/ea9c837c-b52d-4bed-9193-d3fca2855bf7" />
+
+
+
+Project Link:  
+  
 
 https://app.powerbi.com/groups/me/dashboards/28418e52-7608-48d6-88f1-6ae5e64705c8?experience=power-bi
