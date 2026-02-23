@@ -54,11 +54,11 @@ Data Analytics Course
 
 👨‍🏫 Mentors
 
-Satish Dhawale
+Satish Dhawale Sir
 
-Asif Sakail
+Asif Sakail Sir
 
-Ramjeevan Sharma
+Ramjeevan Sharma Sir
 
 📌 Purpose of Project
 
